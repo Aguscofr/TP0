@@ -1,0 +1,26 @@
+[INFO] 23:28:21:049 Servidor/(2034:2034): Servidor listo para recibir al cliente
+[INFO] 23:28:55:212 Servidor/(2083:2083): Servidor listo para recibir al cliente
+[INFO] 23:28:55:217 Servidor/(2083:2083): Se conecto un cliente!
+[INFO] 23:29:19:345 Servidor/(2102:2102): Servidor listo para recibir al cliente
+[INFO] 23:29:19:353 Servidor/(2102:2102): Se conecto un cliente!
+[INFO] 23:30:06:076 Servidor/(2112:2112): Servidor listo para recibir al cliente
+[INFO] 23:30:06:078 Servidor/(2112:2112): Se conecto un cliente!
+[INFO] 23:35:51:323 Servidor/(2329:2329): Servidor listo para recibir al cliente
+[INFO] 23:35:51:329 Servidor/(2329:2329): Se conecto un cliente!
+[INFO] 23:38:49:352 Servidor/(2513:2513): Servidor listo para recibir al cliente
+[INFO] 23:38:49:358 Servidor/(2513:2513): Se conecto un cliente!
+[INFO] 23:41:29:453 Servidor/(2614:2614): Servidor listo para recibir al cliente
+[INFO] 23:42:18:126 Servidor/(2696:2696): Servidor listo para recibir al cliente
+[INFO] 23:43:12:388 Servidor/(2801:2801): Servidor listo para recibir al cliente
+[INFO] 23:43:22:979 Servidor/(2801:2801): Se conecto un cliente!
+[INFO] 23:43:22:979 Servidor/(2801:2801): Me llego el mensaje HOLA
+[INFO] 23:44:09:050 Servidor/(2833:2833): Servidor listo para recibir al cliente
+[INFO] 23:48:33:715 Servidor/(3101:3101): Servidor listo para recibir al cliente
+[INFO] 23:48:43:224 Servidor/(3101:3101): Se conecto un cliente!
+[INFO] 23:48:43:224 Servidor/(3101:3101): Me llego el mensaje valor
+[INFO] 23:49:08:924 Servidor/(3101:3101): Me llegaron los siguientes valores:
+
+[INFO] 23:49:08:928 Servidor/(3101:3101): hola
+[INFO] 23:49:08:928 Servidor/(3101:3101): como
+[INFO] 23:49:08:928 Servidor/(3101:3101): va
+[ERROR] 23:49:08:928 Servidor/(3101:3101): el cliente se desconecto. Terminando servidor
